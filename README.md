@@ -1,6 +1,6 @@
 ## Hi there 😎
 
-I'm Huytutu, currently majoring in Artificial Intelligence at Vietnam National University—which basically means I spend half my life teaching computers how to think, and the other half explaining to my family that “No, I can’t hack Facebook for you.”
+I'm Huytutu, currently majoring in Artificial Intelligence at Vietnam National University.
 
 I’m passionate about data science but if you catch me outside class, I’m probably debugging my life instead of Python. My hobbies include vlogging cinematic slices of life, photography, watching movies, hitting the gym, and playing chess past midnight. I also intended to create a social media for sharing tech-related contents (working on it - stay tuned 👀).
 
