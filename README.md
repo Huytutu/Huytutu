@@ -1,6 +1,6 @@
 ## Hi there 😎
 
-I'm Huytutu, currently majoring in Artificial Intelligence at Vietnam National University.
+I'm Huytutu, currently majoring in Artificial Intelligence at VNU University of Engineering and Technology.
 
 I’m passionate about data science but if you catch me outside class, I’m probably debugging my life instead of Python.
 
