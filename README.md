@@ -12,4 +12,4 @@ In short: I’m just a human trying to train my own brain with fewer bugs than t
 Fun facts:
 - I read docs pretty fast
 - Current favorite book: Tìm Mình Trong Thế Giới Hậu Tuổi Thơ (Đặng Hoàng Giang)
-- Current favorite movie: Materialists (2025)
+- Current favorite movie: Cyberpunk: Edgerunners
